@@ -17,15 +17,12 @@ Our commitment to providing a reliable and efficient platform for child adoption
 Technology stack
 • The technology stacks are a combination of software tools and programming tools like, frameworks, java, html and c# languages and technologies that is used for creating and making sure the system does
 what is supposed to do.
-A)
-Technology stack for frontend
-•
-JavaScript
 
-•
-Html and CSS
-•
-Bootstrap
-B)
-Technology stack for backend
-C#
+A)Technology stack for frontend
+
+1- JavaScript
+2- Html and CSS
+3- Bootstrap
+
+B)Technology stack for backend
+1-C#
