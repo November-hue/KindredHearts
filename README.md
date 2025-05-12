@@ -1,6 +1,6 @@
 KindredHearts is an Online Adoption Center. 
 
-In today's rapidly evolving digital landscape, the need for efficient and effective systems that facilitate social good has never been more pressing. Our project focuses on creating a comprehensive 
+In today's rapidly evolving digital landscape, the need for efficient and effective systems that facilitate social good has never been more pressing. This project focuses on creating a comprehensive 
 platform dedicated to the adoption of children, aiming to streamline the process for prospective parents while ensuring a supportive environment for children in need of loving homes.
 To achieve this, we have employed a robust technological stack that integrates various frameworks and languages. Our backend is built using ASP.NET, providing a solid foundation for our application, 
 while Entity Framework enables seamless data management and interaction with our database. For the artificial intelligence components, we utilized Bot Frameworks to create intelligent
