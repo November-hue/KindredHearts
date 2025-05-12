@@ -21,8 +21,11 @@ what is supposed to do.
 A)Technology stack for frontend
 
 1- JavaScript
+
 2- Html and CSS
+
 3- Bootstrap
 
 B)Technology stack for backend
+
 1-C#
